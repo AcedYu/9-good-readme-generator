@@ -20,6 +20,26 @@ It contains notable features such as:
 
 Due: Thursday, April 15, 2021 11:59 PM
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Node.js is required.
+
+### Installing
+To install the necessary dependencies, run the npm installation command
+```
+npm install
+```
+
+### Usage
+You can run the program on the command line with the following command:
+```
+node index.js
+```
+
 ## Video Demo
 * [Video Demo Here](https://drive.google.com/file/d/1-y-nwy8EAX31JkhBAsUzwhaw53buSR9v/view?usp=sharing)
 

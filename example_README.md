@@ -1,5 +1,5 @@
 # Example
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -11,15 +11,15 @@
 
 <a name="description"></a>
 ## Description
-An example for us all
+This is an example project with this as an example README
 
 <a name="installation"></a>
 ## Installation
-npm run start
+npm install
 
 <a name="usage"></a>
 ## Usage
-It's a great example
+Requires Node
 
 <a name="testing"></a>
 ## Testing
@@ -27,11 +27,11 @@ npm run test
 
 <a name="contributing"></a>
 ## Contributing
-undefined
+Will not accept any pull requests
 
 <a name="license"></a>
 ## License
-[MIT](https://opensource.org/licenses/MIT)
+[APACHE 2.0](https://opensource.org/licenses/Apache-2.0)
 
 <a name="author"></a>
 ## Author
